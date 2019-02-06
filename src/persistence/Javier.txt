@@ -1,0 +1,37 @@
+---------------------------------------------------------Client:
+	first name: Javier
+	last name: de la Serna
+	money: $19558.0
+---------------------------------------------------------Client: 
+	first name: Javier
+	last name: de la Serna
+	money: $21881.0
+---------------------------------------------------------Client: 
+	first name: Javier
+	last name: de la Serna
+	money: $21681.0
+---------------------------------------------------------Client: 
+	first name: Javier
+	last name: de la Serna
+	money: $21481.0
+---------------------------------------------------------Client: 
+	first name: Javier
+	last name: de la Serna
+	money: $20692.0
+---------------------------------------------------------Client: 
+	first name: Javier
+	last name: de la Serna
+	money: $21481.0
+---------------------------------------------------------Client: 
+	first name: Javier
+	last name: de la Serna
+	money: $21604.0
+---------------------------------------------------------Client: 
+	first name: Javier
+	last name: de la Serna
+	money: $21581.0
+---------------------------------------------------------Client: 
+	first name: Javier
+	last name: de la Serna
+	money: $21561.0
+---------------------------------------------------------
